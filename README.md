@@ -34,6 +34,11 @@ RAILS_ENV=production script/delayed_job -n (worker數目) start|restart|stop
 * [Fragment Caching](https://github.com/kevin-shu/Rails-way/wiki/Fragment-Caching)
 * [SQL Cache](https://github.com/kevin-shu/Rails-way/wiki/SQL-cache)
 
+
+## 環境設定
+* [figaro](https://github.com/laserlemon/figaro) - 比SettingsLogic好用一點
+
+
 ## Useful gems
 
 * Tire(https://github.com/karmi/tire)
